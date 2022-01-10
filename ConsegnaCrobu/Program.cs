@@ -6,6 +6,8 @@ namespace CrobuComputationalComplexity
     {
         static void Main(string[] args)
         {
+            // Values 'quantity', 'startingValue', 'x', and 'y' can be changed... pre-setted values are of default
+
             int quantity = 10;
             int startingValue = 3;
             var arr = new int[quantity];
@@ -31,6 +33,8 @@ namespace CrobuComputationalComplexity
             }
         }
 
+        // Algorithm
+
         private static int Calculate(int[] arr, int x, int y, int startingValue)
         {
             if (arr == null ||
@@ -47,6 +51,7 @@ namespace CrobuComputationalComplexity
         {
             return (int)(first * Math.Pow(2, n));
         }
+
         private static decimal ReverseFunction(int first, int matchingValue)
         {
             return (decimal)Math.Log2(matchingValue / first) + 1;

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\ConsegnaCrobu\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
+      "projectUniqueName": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
       "projectName": "CrobuComputationalComplexity",
-      "projectPath": "E:\\ConsegnaCrobu\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
+      "projectPath": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
       "packagesPath": "C:\\Users\\giugg\\.nuget\\packages\\",
-      "outputPath": "E:\\ConsegnaCrobu\\ConsegnaCrobu\\obj\\",
+      "outputPath": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

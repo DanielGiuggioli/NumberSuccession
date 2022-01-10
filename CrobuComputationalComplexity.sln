@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrobuComputationalComplexity", "ConsegnaCrobu\CrobuComputationalComplexity.csproj", "{2DF71A6C-FA40-4A76-B733-4BCDA99B082B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF71A6C-FA40-4A76-B733-4BCDA99B082B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF71A6C-FA40-4A76-B733-4BCDA99B082B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF71A6C-FA40-4A76-B733-4BCDA99B082B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF71A6C-FA40-4A76-B733-4BCDA99B082B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35743A13-7E05-45AF-8D65-9E8E6072BD4D}
+	EndGlobalSection
+EndGlobal

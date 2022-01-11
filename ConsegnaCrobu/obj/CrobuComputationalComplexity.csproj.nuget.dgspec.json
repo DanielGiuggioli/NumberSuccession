@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj": {}
+    "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj": {
+    "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
+        "projectUniqueName": "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
         "projectName": "CrobuComputationalComplexity",
-        "projectPath": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
-        "packagesPath": "C:\\Users\\giugg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\obj\\",
+        "projectPath": "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
+        "packagesPath": "C:\\Users\\giuggioli.17210\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\giugg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\giuggioli.17210\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,12 +52,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.13, 3.1.13]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

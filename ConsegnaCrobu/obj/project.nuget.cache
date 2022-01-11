@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NC7QP6gWz141qH5VaU/ChH6lf4x9Ck51YTJ72eYnHz2kYEp5vfDsPltyIqPt7C1IGCsARDhgNODR/QvTn2UA8Q==",
+  "dgSpecHash": "Vz2/h220jYg5bLc4iPT6Kg6coXzgEV+xuqB19YBq7zOhFOq+9mo4TpvJL/4jGFAwcO06rIU2KzfWrfVyC9VXnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\giugg\\source\\repos\\CrobuComputationalComplexity\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\giuggioli.17210\\Documents\\GitHub\\NumberSuccession\\ConsegnaCrobu\\CrobuComputationalComplexity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\giuggioli.17210\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
   "logs": []
 }

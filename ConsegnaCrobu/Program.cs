@@ -12,13 +12,13 @@ namespace CrobuComputationalComplexity
             int startingValue = 3;
             var arr = new int[quantity];
             for (int v = 0; v < quantity; v++)
-                arr[v] = Function(startingValue, v);
-            int x = 50;
-            int y = 500;
+                arr[v] = Algorithm.Function(startingValue, v);
+            int x = 1;
+            int y = 10000;
 
             try
             {
-                int result = Calculate(arr, x, y, startingValue);
+                int result = Algorithm.Calculate(arr, x, y, startingValue);
                 Console.Write("Input list: ");
                 for (int c = 0; c < arr.Length; c++)
                     Console.Write(arr[c].ToString() + " ");
@@ -31,30 +31,6 @@ namespace CrobuComputationalComplexity
                 Console.WriteLine("*****possible correction: change x or y value(s)*****");
                 Console.ReadKey();
             }
-        }
-
-        // Algorithm
-
-        private static int Calculate(int[] arr, int x, int y, int startingValue)
-        {
-            if (arr == null ||
-                x > y)
-                return 0;
-            int n1 = (int)Math.Truncate(ReverseFunction(startingValue, x));
-            if (arr[n1 - 1] == x)
-                n1--;
-            int n2 = (int)Math.Truncate(ReverseFunction(startingValue, y));
-            return n2 - n1;
-        }
-
-        private static int Function(int first, int n)
-        {
-            return (int)(first * Math.Pow(2, n));
-        }
-
-        private static decimal ReverseFunction(int first, int matchingValue)
-        {
-            return (decimal)Math.Log2(matchingValue / first) + 1;
         }
     }
 }

@@ -24,3 +24,16 @@ C:\Users\giugg\source\repos\CrobuComputationalComplexity\NumberSuccession\Conseg
 C:\Users\giugg\source\repos\CrobuComputationalComplexity\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.dll
 C:\Users\giugg\source\repos\CrobuComputationalComplexity\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.pdb
 C:\Users\giugg\source\repos\CrobuComputationalComplexity\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.genruntimeconfig.cache
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.exe
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.deps.json
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.runtimeconfig.json
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.runtimeconfig.dev.json
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.dll
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\bin\Debug\netcoreapp3.1\CrobuComputationalComplexity.pdb
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.csprojAssemblyReference.cache
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.AssemblyInfoInputs.cache
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.AssemblyInfo.cs
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.csproj.CoreCompileInputs.cache
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.dll
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.pdb
+C:\Users\giuggioli.17210\Documents\GitHub\NumberSuccession\ConsegnaCrobu\obj\Debug\netcoreapp3.1\CrobuComputationalComplexity.genruntimeconfig.cache
